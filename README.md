@@ -17,7 +17,6 @@ Scikit-learn
 Matplotlib
 Plotly
 Installation
-git clone https://github.com/your-username/VBCUA.git
 cd VBCUA
 pip install -r requirements.txt
 Run the Application
